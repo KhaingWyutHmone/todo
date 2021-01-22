@@ -33,7 +33,7 @@ if($_POST){
             <h2>Create New Todo</h2>
             <form action="add.php" method="post" class="form">
                 <div class="form-group">
-                    <label for="">Title</label>
+                    <label for="">Title Update</label>
                     <input type="text" class="form-control" name="title" required>
                 </div>
                 <div class="form-group">
